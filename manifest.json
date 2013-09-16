@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Gmail Headerless Print",
-    "description": "Removes the header when printing from Gmail.",
+    "description": "Removes the Gmail header when printing from your browser.",
     "version": "1.0",
 
     "content_scripts": [
